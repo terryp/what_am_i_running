@@ -5,6 +5,11 @@
 # http://stackoverflow.com/questions/16843382/colored-shell-script-output-library
 # 
 
+#
+# Keep @ Top of Shell Prompt
+# http://stackoverflow.com/questions/18773246/bash-always-display-colored-bar-at-top-of-screen
+#
+
 # Text Reset
 RCol='\x1b[0m'    
 
